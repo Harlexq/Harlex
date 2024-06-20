@@ -1,6 +1,6 @@
-<h1>Hi, I'm Harlex. 🖤🤍 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></h1>
+<h1>Hi, I'm Serhan Bakır. 🖤🤍 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></h1>
 
-# Junior Front-End Developer
+# Front-End Developer
 
 <img src="https://komarev.com/ghpvc/?username=Harlexq&style=plastic" width="130" height="20" />
 
