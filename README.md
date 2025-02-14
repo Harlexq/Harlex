@@ -16,7 +16,7 @@
 <br />
 <br />
 
-### Front-End Development Toolls
+### Front-End Development Tools
 
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
@@ -33,7 +33,7 @@
 <br />
 
 
-### Deployment Toolls
+### Deployment Tools
 
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg">
 <br />
